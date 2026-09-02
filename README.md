@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the process of runtimepermission in android mobile devices”.
-Developed by: Taranikka A
-Registeration Number : 212223220115
+Developed by: Rakshitha P
+Registeration Number : 212223220083
 */
 ```
 ### ActivityMain.xml:
@@ -302,10 +302,8 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-<img width="1913" height="1068" alt="image" src="https://github.com/user-attachments/assets/1e5ce7a9-a47b-467b-84d7-3dd063018bec" />
 <img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/5f699724-2b9e-4cea-bac2-de63f011717a" />
 <img width="1917" height="1072" alt="image" src="https://github.com/user-attachments/assets/a86046f6-6c4e-41ed-8ed2-ea7cb62f5f8b" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/46776c94-b69b-48f9-8e1e-fe343ccccc20" />
 <img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/88d43a54-fc1b-4013-bd0b-f2aec342b123" />
 
 
